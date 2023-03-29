@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# HealthCare Initiative
 
 A medical app for self diagnosis.
 
